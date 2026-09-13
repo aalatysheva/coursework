@@ -24,8 +24,7 @@ The total field and potential of a multi-charge system are obtained via the supe
 
 | File | Description |
 |---|---|
-| `field_visualization.py` | Full simulation and plotting script |
-| `figures/` | Output plots for the charge configurations described in the report |
+| `field_visualization.ipynb` | Full simulation and plotting script |
 | `report.pdf` | Full write-up: derivation, methodology, and results (in Russian) |
 
 ## Example result
